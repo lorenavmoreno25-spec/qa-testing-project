@@ -2,7 +2,7 @@ Testing Funcional de SauceDemo y Validación Básica de APIs
 
 Objetivo
 
-Desarrollar un proyecto orientado a la práctica y aprendizaje de fundamentos relacionados con el testing funcional mediante la aplicación web SauceDemo, enfocándose en la validación de flujos y el análisis de su comportamiento a través del diseño y ejecución de casos de prueba, la identificación y documentación de incidencias en Jira con sus respectivas evidencias y la validación de escenarios positivos y negativos. De manera complementaria, se realizaron pruebas básicas de APIs utilizando Postman para practicar la validación de requests, responses y códigos de estado HTTP.
+Desarrollar un proyecto orientado a la práctica y aprendizaje de fundamentos relacionados con el testing funcional mediante la aplicación web SauceDemo, enfocándose en la validación de flujos y el análisis del comportamiento por medio del diseño y ejecución de casos de prueba, la identificación y documentación de incidencias en Jira con sus respectivas evidencias y la validación de escenarios positivos y negativos. De manera complementaria, se realizaron pruebas básicas de APIs utilizando Postman para practicar la validación de requests, responses y códigos de estado HTTP.
 
 Alcance
 
